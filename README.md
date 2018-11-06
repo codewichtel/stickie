@@ -8,7 +8,7 @@ This library was tested using **Godex G500** model and with a **50mmx45mm** labe
 
 #### Installation
 
-```composer require fashionvalet/stickie```
+```composer require wendrowycz/stickie```
 
 #### Generating EZPL Commands
 
